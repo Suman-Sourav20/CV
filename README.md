@@ -8,5 +8,5 @@
 # Pure CSS drawing
 
 # Javascript
--[**](https://github.com/Suman-Sourav20/Js-typing-game.git)
+-[Js-typing-game](https://github.com/Suman-Sourav20/Js-typing-game.git)
 # Miscellenous
